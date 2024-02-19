@@ -1,12 +1,5 @@
 <img src="https://sun9-54.userapi.com/impf/r11ePrBROVT4P5weu6nlffKy2_WceupOKTDdFA/Ff_Ub-wDNns.jpg?size=1920x768&quality=95&crop=141,0,1262,504&sign=0ab9d2b19f522372305aa0fde9ed586c&type=cover_group">
 
-<div align="center">
-  <a href="https://github.com/7LeoFront7">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
-
-### Hi all, I'm Maxim - aka [LeoFront] 👋 <img align="right" src="[https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square](https://sun9-54.userapi.com/impf/r11ePrBROVT4P5weu6nlffKy2_WceupOKTDdFA/Ff_Ub-wDNns.jpg?size=1920x768&quality=95&crop=141,0,1262,504&sign=0ab9d2b19f522372305aa0fde9ed586c&type=cover_group)" alt="Yauhen" />
-
 ## I'm a Frontend Developer!
 
 - 📍 I’m From Russia (Moskow)
@@ -15,11 +8,8 @@
 
 ### 🤝 Connect with me:
 
-[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+[<img alt="LeoFront | VK" src="https://vk.com/7leofront7" />][vk]
+[<img alt="LeoFront | VK Group" src="https://vk.com/7leomax7" />][vk]
 
 
 ### 💻 Tech Stack:

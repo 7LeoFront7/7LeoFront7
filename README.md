@@ -1,4 +1,4 @@
-<img src="[https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png](https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square](https://sun9-54.userapi.com/impf/r11ePrBROVT4P5weu6nlffKy2_WceupOKTDdFA/Ff_Ub-wDNns.jpg?size=1920x768&quality=95&crop=141,0,1262,504&sign=0ab9d2b19f522372305aa0fde9ed586c&type=cover_group)">
+<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png](https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square](https://sun9-54.userapi.com/impf/r11ePrBROVT4P5weu6nlffKy2_WceupOKTDdFA/Ff_Ub-wDNns.jpg?size=1920x768&quality=95&crop=141,0,1262,504&sign=0ab9d2b19f522372305aa0fde9ed586c&type=cover_group">
 
 <div align="center">
   <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">

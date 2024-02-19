@@ -1,21 +1,13 @@
 <img src="[https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png](https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square](https://sun9-54.userapi.com/impf/r11ePrBROVT4P5weu6nlffKy2_WceupOKTDdFA/Ff_Ub-wDNns.jpg?size=1920x768&quality=95&crop=141,0,1262,504&sign=0ab9d2b19f522372305aa0fde9ed586c&type=cover_group](https://7leofront7.netlify.app/img/me-remo5vebg.png)">
 
 <div align="center">
-  <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/YauhenKavalchuk">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCE9ODjNIkOHrnSdkYWLfYhg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a>
-  <a href="https://github.com/YauhenKavalchuk?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a>
-  <a href="https://github.com/YauhenKavalchuk">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/7LeoFront7">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/YauhenKavalchuk"/></a> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
 ### Hi all, I'm Maxim - aka [LeoFront] 👋 <img align="right" src="[https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square](https://sun9-54.userapi.com/impf/r11ePrBROVT4P5weu6nlffKy2_WceupOKTDdFA/Ff_Ub-wDNns.jpg?size=1920x768&quality=95&crop=141,0,1262,504&sign=0ab9d2b19f522372305aa0fde9ed586c&type=cover_group)" alt="Yauhen" />
 
-## I'm a Developer, Teacher and Mentor!
+## I'm a Frontend Developer!
 
 - 📍 I’m From Russia (Moskow)
 - 💻 1+ Years Experience in Front-end Development

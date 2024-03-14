@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer!
 
 - 📍 I’m From Russia (Moskow)
-- 💻 1+ Years Experience in Front-end Development
+- 💻 2+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 
 ### 🤝 Connect with me:
